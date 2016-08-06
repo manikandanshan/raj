@@ -1,7 +1,7 @@
 <?php
 include'connection.php';
 $sql = "SELECT headers FROM advisoriesheader";
-		
+Echo"helloworld"		
 $result = mysqli_query($link,$sql);
 if(!$result)
 {
