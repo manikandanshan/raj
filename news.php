@@ -1,7 +1,8 @@
 <?php include'connection.php';
 $nCategory_list[] ='';
 $sql = "SELECT headers FROM newsandeventsitemsheaders";
-		
+echo"hello";
+sjh;
 $result = mysqli_query($link,$sql);
 if(!$result)
 {
