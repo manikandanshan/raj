@@ -3,6 +3,8 @@ $nCategory_list[] ='';
 $sql = "SELECT headers FROM newsandeventsitemsheaders";
 echo"hello";
 sjh;
+
+kjfkjkfj hhjhj
 $result = mysqli_query($link,$sql);
 if(!$result)
 {
